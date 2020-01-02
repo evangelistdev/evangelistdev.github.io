@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advocate on evangelist.dev</title>
-    <link>https://evangelistdev.github.io/tags/advocate/</link>
+    <link>https://evangelist.dev/tags/advocate/</link>
     <description>Recent content in Advocate on evangelist.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2019 15:38:03 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 15:38:03 -0800</lastBuildDate>
     
-	<atom:link href="https://evangelistdev.github.io/tags/advocate/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://evangelist.dev/tags/advocate/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Developer Evangelist vs Advocate</title>
-      <link>https://evangelistdev.github.io/posts/developer-evangelist-vs-advocate/</link>
-      <pubDate>Sat, 07 Dec 2019 15:38:03 -0800</pubDate>
+      <link>https://evangelist.dev/posts/developer-evangelist-vs-advocate/</link>
+      <pubDate>Wed, 01 Jan 2020 15:38:03 -0800</pubDate>
       
-      <guid>https://evangelistdev.github.io/posts/developer-evangelist-vs-advocate/</guid>
+      <guid>https://evangelist.dev/posts/developer-evangelist-vs-advocate/</guid>
       <description>&lt;p&gt;The question pops up from time to time. What is the difference between a Developer Evangelist and Developer Advocate?&lt;/p&gt;</description>
     </item>
     
