@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on evangelist.dev</title>
-    <link>https://evangelistdev@github.io/tags/</link>
+    <link>http://evangelist.dev/tags/</link>
     <description>Recent content in Tags on evangelist.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2019 15:38:03 -0800</lastBuildDate>
     
-	<atom:link href="https://evangelistdev@github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://evangelist.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advocate</title>
-      <link>https://evangelistdev@github.io/tags/advocate/</link>
+      <link>http://evangelist.dev/tags/advocate/</link>
       <pubDate>Sat, 07 Dec 2019 15:38:03 -0800</pubDate>
       
-      <guid>https://evangelistdev@github.io/tags/advocate/</guid>
+      <guid>http://evangelist.dev/tags/advocate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evangelist</title>
-      <link>https://evangelistdev@github.io/tags/evangelist/</link>
+      <link>http://evangelist.dev/tags/evangelist/</link>
       <pubDate>Sat, 07 Dec 2019 15:38:03 -0800</pubDate>
       
-      <guid>https://evangelistdev@github.io/tags/evangelist/</guid>
+      <guid>http://evangelist.dev/tags/evangelist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General Topics</title>
-      <link>https://evangelistdev@github.io/tags/general-topics/</link>
+      <link>http://evangelist.dev/tags/general-topics/</link>
       <pubDate>Sat, 07 Dec 2019 15:38:03 -0800</pubDate>
       
-      <guid>https://evangelistdev@github.io/tags/general-topics/</guid>
+      <guid>http://evangelist.dev/tags/general-topics/</guid>
       <description></description>
     </item>
     
