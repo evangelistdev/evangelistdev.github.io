@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://evangelist.dev/tags/advocate/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/categories/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/posts/developer-evangelist-vs-advocate/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/tags/evangelist/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/categories/general-topics/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/tags/general-topics/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/post/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/tags/</loc>
+    <lastmod>2019-12-07T15:38:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/about/</loc>
+    <lastmod>1969-12-31T16:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://evangelist.dev/archives/</loc>
+  </url>
+  
+</urlset>
