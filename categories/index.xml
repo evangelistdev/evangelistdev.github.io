@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on evangelist.dev</title>
-    <link>http://evangelist.dev/categories/</link>
+    <link>https://evangelistdev.github.io/categories/</link>
     <description>Recent content in Categories on evangelist.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2019 15:38:03 -0800</lastBuildDate>
     
-	<atom:link href="http://evangelist.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://evangelistdev.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>General Topics</title>
-      <link>http://evangelist.dev/categories/general-topics/</link>
+      <link>https://evangelistdev.github.io/categories/general-topics/</link>
       <pubDate>Sat, 07 Dec 2019 15:38:03 -0800</pubDate>
       
-      <guid>http://evangelist.dev/categories/general-topics/</guid>
+      <guid>https://evangelistdev.github.io/categories/general-topics/</guid>
       <description></description>
     </item>
     
